@@ -1,3 +1,11 @@
+<p align="center">
+<img 
+  src="[https://i.ibb.co.com/b5rFWrkV/sazid.png](https://media.licdn.com/dms/image/v2/D4D16AQGU1sbuXN-deA/profile-displaybackgroundimage-shrink_350_1400/B4DZqbywhtJAAY-/0/1763550368127?e=1766016000&v=beta&t=JXJ7lj5Hh9CDYgrF7j9zla57tBxKWjKvD2awHExd5Yg)" 
+  alt="Yasir-card" 
+/>
+<p>
+
+
 <h1 align="center">Hi 👋, I'm Yasir Arafat Alif</h1>
 <h3 align="center">👨‍💻 Yasir Arafat Alif | MERN Stack Web Developer 🎓 3rd Semester CST Student at Dhaka Polytechnic Institute Passionate about coding and building modern web</h3>
 
