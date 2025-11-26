@@ -6,7 +6,10 @@
 <p>
 
 
-<h1 align="center">Hi 👋, I'm Yasir Arafat Alif</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&width=435&lines=YASIR+ARAFAT+ALIF;MERN+STACK+DEVELOPER" alt="Typing SVG" /></a>
+
+
+
 <h3 align="center">👨‍💻 Yasir Arafat Alif | MERN Stack Web Developer 🎓 3rd Semester CST Student at Dhaka Polytechnic Institute Passionate about coding and building modern web</h3>
 
 
