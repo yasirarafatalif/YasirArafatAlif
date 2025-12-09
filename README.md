@@ -10,7 +10,7 @@
 
 
 
-<h3 align="center">👨‍💻 Yasir Arafat Alif | MERN Stack Web Developer 🎓 3rd Semester CST Student at Dhaka Polytechnic Institute Passionate about coding and building modern web</h3>
+<h3 align="center">👨‍💻 Yasir Arafat Alif | MERN Stack Web Developer 🎓 4th Semester CST Student at Dhaka Polytechnic Institute Passionate about coding and building modern web</h3>
 
 
 
@@ -19,7 +19,7 @@
 <h3 align="left">🚀 About Me:</h3>
 
 - 🌱 I’m currently learning **MONGO BD AND EXPRESS.JS**
-- 🎓 3rd‑semester **CST** student at **Dhaka Polytechnic**.
+- 🎓 4th‑semester **CST** student at **Dhaka Polytechnic**.
 
 - 🌍 From **Uttara**, currently in **Dhaka** timezone region.
 - 💻 Interested in web development (**Front-End & Back-End**)
