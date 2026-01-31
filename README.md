@@ -10,7 +10,7 @@
 
 
 
-<h3 align="center">👨‍💻 Yasir Arafat Alif | Front-End Web Developer 🎓 5th Semester CST Student at Dhaka Polytechnic Institute Passionate about coding and building modern web</h3>
+<h3 align="center">👨‍💻 Yasir Arafat Alif | Front-End Web Developer 🎓 5th Semester CSE Student at Dhaka Polytechnic Institute Passionate about coding and building modern web</h3>
 
 
 
