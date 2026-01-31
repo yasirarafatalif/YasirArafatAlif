@@ -19,7 +19,7 @@
 <h3 align="left">🚀 About Me:</h3>
 
 - 🌱 I’m currently learning **Next.js, MONGO BD AND EXPRESS.JS**
-- 🎓 4th‑semester **CST** student at **Dhaka Polytechnic**.
+- 🎓 5th‑semester **CSE** student at **Dhaka Polytechnic**.
 
 - 🌍 From **Uttara**, currently in **Dhaka** timezone region.
 - 💻 Interested in web development (**Front-End & Back-End**)
