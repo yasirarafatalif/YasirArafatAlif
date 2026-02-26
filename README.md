@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-  src="https://media.licdn.com/dms/image/v2/D4D16AQGU1sbuXN-deA/profile-displaybackgroundimage-shrink_350_1400/B4DZqbywhtJAAY-/0/1763550368127?e=1772064000&v=beta&t=OUEUdn4QsJEUh8xCZeyM6LGc5GlNXnG7FR49PkWzZoI" 
+  src="" 
   alt="Yasir-Arafatf-Ali-card"  
 />
 <p>
