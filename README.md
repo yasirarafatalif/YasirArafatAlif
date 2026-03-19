@@ -11,7 +11,7 @@
 
 
 
-<h3 align="center">👨‍💻 Ya Arafat Alif | Front-End Web Developer 🎓 5th Semester CSE Student at Dhaka Polytechnic Institute Passionate about coding and building modern web</h3>
+<h3 align="center">👨‍💻 Yas Arafat Alif | Front-End Web Developer 🎓 5th Semester CSE Student at Dhaka Polytechnic Institute Passionate about coding and building modern web</h3>
 
 
 
