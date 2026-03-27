@@ -1,7 +1,8 @@
 <p align="center">
 <img 
   src="https://media.licdn.com/dms/image/v2/D4D16AQGU1sbuXN-deA/profile-displaybackgroundimage-shrink_350_1400/B4DZqbywhtJAAY-/0/1763550368127?e=1775692800&v=beta&t=vSow2_fy70nZ7OFvFEXzIyuz0lPqcBadfn4TxLS9SUQ" 
-  alt="Yasir-Arafatf-Ali-Card"  
+  alt="Yasir-Arafatf-Ali-Car
+  "  
 />
 <p>
 
