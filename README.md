@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-  src="https://media.licdn.com/dms/image/v2/D4D16AQGU1sbuXN-deA/profile-displaybackgroundimage-shrink_350_1400/B4DZqbywhtJAAY-/0/1763550368127?e=1775692800&v=beta&t=vSow2_fy70nZ7OFvFEXzIyuz0lPqcBadfn4TxLS9SUQ" 
+  src="[https://media.licdn.com/dms/image/v2/D4D16AQGU1sbuXN-deA/profile-displaybackgroundimage-shrink_350_1400/B4DZqbywhtJAAY-/0/1763550368127?e=1775692800&v=beta&t=vSow2_fy70nZ7OFvFEXzIyuz0lPqcBadfn4TxLS9SUQ](https://www.linkedin.com/in/yasir-arafat-alif-b73944275/overlay/background-photo/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BtiUEkPTqRJy4jU18re8exA%3D%3D)" 
   alt="Yasir-Arafatf-Ali-Card"  
 />
 <p>
