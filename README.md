@@ -1,7 +1,7 @@
 <p align="center">
 <img 
-  src="[https://media.licdn.com/dms/image/v2/D4D16AQGU1sbuXN-deA/profile-displaybackgroundimage-shrink_350_1400/B4DZqbywhtJAAY-/0/1763550368127?e=1775692800&v=beta&t=vSow2_fy70nZ7OFvFEXzIyuz0lPqcBadfn4TxLS9SUQ](https://www.linkedin.com/in/yasir-arafat-alif-b73944275/overlay/background-photo/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BtiUEkPTqRJy4jU18re8exA%3D%3D)" 
-  alt="Yasir-Arafatf-Ali-Card"  
+  src="https://media.licdn.com/dms/image/v2/D4E16AQG5IaCfcuM5Lg/profile-displaybackgroundimage-shrink_350_1400/B4EZ09ZfsIJcAc-/0/1774851588839?e=1776297600&v=beta&t=avu_Rl3t9du8VIZe-zLzQzm8jOpD0mDltZjzMuT3VkU" 
+  alt="Yasir-Arafat-Alif-Card"  
 />
 <p>
 
