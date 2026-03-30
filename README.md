@@ -44,9 +44,10 @@
 ## 📊 GitHub Stats:  
 A quick snapshot of my activity and code distribution.  
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-all-stats.vercel.app/api?username=yasirarafatalif&v=1" alt="My GitHub Stats" />
-</div>
+</div> -->
+![GitHub Stats](https://YOUR-VERCEL-URL/api?username=yasirarafatalif-690&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
 ![](https://github-readme-stats.vercel.app/api?username=yasirarafatalif&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=yasirarafatalif&theme=dark&hide_border=false)<br/>
