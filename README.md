@@ -51,6 +51,12 @@ A quick snapshot of my activity and code distribution.
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yasirarafatalif&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yasirarafatalif&layout=compact&theme=tokyonight&border_radius=10&bg_color=1a1b26&hide_border=true" height="165" alt="Most used languages" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yasirarafatalif&theme=tokyonight&bg_color=1a1b26&hide_border=true&area=true" width="100%" alt="Activity graph" />
+</p>
 ---
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yasirarafatalif&label=Profile%20views&color=0e75b6&style=flat" alt="yasirarafatalif" /> </p>
