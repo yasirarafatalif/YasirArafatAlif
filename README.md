@@ -44,10 +44,16 @@
 ## 📊 GitHub Stats:  
 A quick snapshot of my activity and code distribution.  
 
-<!-- <div align="center">
-  <img src="https://github-all-stats.vercel.app/api?username=yasirarafatalif&v=1" alt="My GitHub Stats" />
-</div> -->
-![GitHub Stats](https://streak-stats.demolab.com?user=yasirarafatalif&theme=dark&hide_border=false)
+# 📊 GitHub Stats
+
+<div align="center">
+
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yasirarafatalif&theme=tokyonight&hide_border=true" height="170"/>
+
+
+</div>
+<!-- ![GitHub Stats](https://streak-stats.demolab.com?user=yasirarafatalif&theme=dark&hide_border=false) -->
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yasirarafatalif&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
@@ -57,7 +63,6 @@ A quick snapshot of my activity and code distribution.
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yasirarafatalif&theme=tokyonight&bg_color=1a1b26&hide_border=true&area=true" width="100%" alt="Activity graph" />
 </p>
----
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yasirarafatalif&label=Profile%20views&color=0e75b6&style=flat" alt="yasirarafatalif" /> </p>
 
