@@ -1,7 +1,7 @@
 <p align="center">
 <img 
   src="https://media.licdn.com/dms/image/v2/D4E16AQG5IaCfcuM5Lg/profile-displaybackgroundimage-shrink_350_1400/B4EZ09ZfsIJcAc-/0/1774851588839?e=1779926400&v=beta&t=aJSaAYGux22IB5Pmbd11oTAz7S_-rTvQLBWGOx-tI5c" 
-  alt="Yasir-Arafat-Alif-Card"  
+  alt="Yasir-Arafat-Alif-C"  
 />
 <p>
 
