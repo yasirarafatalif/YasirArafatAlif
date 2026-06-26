@@ -97,11 +97,9 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=yasirarafatalif&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=yasirarafatalif&theme=tokyonight&hide_border=true"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=yasirarafatalif&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  &nbsp;&nbsp;&nbsp;
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=yasirarafatalif&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 
