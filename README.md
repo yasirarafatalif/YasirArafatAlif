@@ -17,7 +17,7 @@
 
 - 🌍 From **Uttara**, currently in **Dhaka** timezone region.
 - 💻 Interested in web development (**BACK-END & DSA**)
-- 📫 How to reach me **yasirarafatalif@gmail.com**
+- 📫 How to reach me **yasirarafatalif1@gmail.com**
 
 ## Tech Stack
 
@@ -78,7 +78,7 @@
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="mailto:yasirarafatalif@gmail.com">
+<a href="mailto:yasirarafatalif1@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
