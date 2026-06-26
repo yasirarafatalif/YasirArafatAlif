@@ -5,17 +5,10 @@
 />
 <p>
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&width=435&lines=YASIR+ARAFAT+ALIF;FULL-STACK+WEB+DEVELOPER" alt="Typing SVG" /></a>
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&width=435&lines=YASIR+ARAFAT+ALIF;FRONTEND+WEB+DEVELOPER" alt="Typing SVG" /></a>
-
-
-
-<h3 align="center">👨‍💻 Yasir Arafat Alif | Front-End Web Developer 🎓 5th Semester CSE Student at Dhaka Polytechnic Institute Passionate about coding and building modern web</h3>
-
-
-
-
+<h3 align="center">👨‍💻 Yasir Arafat Alif | Full-Stack Web Developer 🎓 5th Semester CSE Student at Dhaka Polytechnic Institute Passionate about coding and building modern web</h3>
 
 <h3 align="left"> About Me:</h3>
 
@@ -24,9 +17,6 @@
 
 - 🌍 From **Uttara**, currently in **Dhaka** timezone region.
 - 💻 Interested in web development (**BACK-END & DSA**)
-
-
-
 - 📫 How to reach me **yasirarafatalif@gmail.com**
 
 ## Tech Stack
