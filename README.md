@@ -17,7 +17,7 @@
 
 
 
-<h3 align="left">🚀 About Me:</h3>
+<h3 align="left"> About Me:</h3>
 
 - 🌱 I’m currently learning **PRISMA, NODE.JS AND POSTGRESQL**
 - 🎓 5th‑semester **CSE** student at **Dhaka Polytechnic**.
@@ -50,51 +50,51 @@
 
 </div>
 
-## 🛠️ Tech Stack
+## Tech I Stack
 
-<table align="center">
-  <tr>
-    <th align="left">Category</th>
-    <th align="left">Technologies</th>
-  </tr>
+###  Frontend :
 
-  <tr>
-    <td>🎨 <b>Frontend</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,nextjs" />
-    </td>
-  </tr>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-  <tr>
-    <td>⚙️ <b>Backend</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,python" />
-    </td>
-  </tr>
+---
 
-  <tr>
-    <td>🗄️ <b>Database</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma" />
-    </td>
-  </tr>
+### Backend :
 
-  <tr>
-    <td>🔥 <b>Authentication</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=firebase" />
-    </td>
-  </tr>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+![SSLCommerz](https://img.shields.io/badge/SSLCommerz-006A4E?style=for-the-badge&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 
-  <tr>
-    <td>🛠️ <b>Tools</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify,postman" />
-    </td>
-  </tr>
-</table>
+---
 
-## 📊 GitHub Analytics
+### Tools :
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+
+---
+
+## GitHub Analytics
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=yasirarafatalif&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
@@ -102,7 +102,7 @@
 </p>
 
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 <p align="center">
 
