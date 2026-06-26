@@ -19,11 +19,11 @@
 
 <h3 align="left">🚀 About Me:</h3>
 
-- 🌱 I’m currently learning **Next.js, NODE.JS AND EXPRESS.JS**
+- 🌱 I’m currently learning **PRISMA, NODE.JS AND POSTGRESQL**
 - 🎓 5th‑semester **CSE** student at **Dhaka Polytechnic**.
 
 - 🌍 From **Uttara**, currently in **Dhaka** timezone region.
-- 💻 Interested in web development (**Front-End & Back-End**)
+- 💻 Interested in web development (**BACK-END & DSA**)
 
 
 
@@ -105,10 +105,16 @@
 </p>
 
 
+## 📈 Contribution Graph
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yasirarafatalif&theme=tokyonight&bg_color=1a1b26&hide_border=true&area=true" width="100%" alt="Activity graph" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yasirarafatalif&theme=tokyo-night&hide_border=true"/>
+
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yasirarafatalif&label=Profile%20views&color=0e75b6&style=flat" alt="yasirarafatalif" /> </p>
+<p align="center">
 
+<img src="https://komarev.com/ghpvc/?username=yasirarafatalif&style=for-the-badge&color=blue"/>
 
+</p>
