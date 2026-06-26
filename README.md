@@ -36,10 +36,49 @@
 <a href="https://instagram.com/yasir.alif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yasir.alif" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+## 🛠️ Tech Stack
 
-[![My techStack](https://skillicons.dev/icons?i=js,html,css,tailwind,ts,python,react,nextjs,nodejs,express,mongodb,postgres,prisma,firebase)](https://skillicons.dev)
----
+<table align="center">
+  <tr>
+    <th align="left">Category</th>
+    <th align="left">Technologies</th>
+  </tr>
+
+  <tr>
+    <td>🎨 <b>Frontend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,nextjs" />
+    </td>
+  </tr>
+
+  <tr>
+    <td>⚙️ <b>Backend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,python" />
+    </td>
+  </tr>
+
+  <tr>
+    <td>🗄️ <b>Database</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma" />
+    </td>
+  </tr>
+
+  <tr>
+    <td>🔥 <b>Authentication</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=firebase" />
+    </td>
+  </tr>
+
+  <tr>
+    <td>🛠️ <b>Tools</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify,postman" />
+    </td>
+  </tr>
+</table>
 
 ## 📊 GitHub Stats:  
 A quick snapshot of my activity and code distribution.  
