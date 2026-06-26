@@ -38,7 +38,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My techStack](https://skillicons.dev/icons?i=js,html,css,tailwind,ts,python,react,nextjs,nodejs,express,mongodb,postgres,firebase)](https://skillicons.dev)
+[![My techStack](https://skillicons.dev/icons?i=js,html,css,tailwind,ts,python,react,nextjs,nodejs,express,mongodb,postgres,prisma,firebase)](https://skillicons.dev)
 ---
 
 ## 📊 GitHub Stats:  
