@@ -89,8 +89,12 @@ src="https://media.licdn.com/dms/image/v2/D5616AQFtIRlbCv_Dng/profile-displaybac
 ## GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=yasirarafatalif&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=yasirarafatalif&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <p align="center">
+  <img src="https://github-stats-alpha.vercel.app/api?username=yasirarafatalif&cc=1a1b26&tc=70a5fd&ic=bf91f3&bc=00000000" height="165" alt="Arafat's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yasirarafatalif&theme=tokyonight&border_radius=10&background=1a1b26&hide_border=true" height="165" alt="Arafat's GitHub streak" />
+</p>
+  <!-- <img width="49%" src="https://github-readme-stats.vercel.app/api?username=yasirarafatalif&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" /> -->
+  <!-- <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=yasirarafatalif&theme=tokyonight&hide_border=true" alt="GitHub Streak" /> -->
 </p>
 
 ## Contribution Graph
