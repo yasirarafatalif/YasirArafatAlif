@@ -1,7 +1,7 @@
 <p align="center">
-<img 
-src="https://media.licdn.com/dms/image/v2/D5616AQFtIRlbCv_Dng/profile-displaybackgroundimage-shrink_350_1400/B56Z8CtYBrGcAU-/0/1782456877429?e=1787788800&v=beta&t=qTgIL4Ti2vW9xl99vDUMHbfy--YliO_ysxGf-VtUzRs" 
-  alt="Yasir-Arafat-Alif-Card"  
+<img
+  src="https://media.licdn.com/dms/image/v2/D5616AQFtIRlbCv_Dng/profile-displaybackgroundimage-shrink_350_1400/B56Z8CtYBrGcAU-/0/1782456877429?e=1791417600&v=beta&t=qvOMoM65W8VSrUDfX7TcafQbecZv30Yg7fR_MPlbSAE"
+  alt="Yasir-Arafat-Alif-Card"
 />
 <p>
 
